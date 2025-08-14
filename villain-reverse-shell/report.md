@@ -18,9 +18,6 @@ The payload was generated using the Villain framework and executed on the target
   - Wi-Fi: 192.168.202.54
 - **User:** JOEL\joelt
 
-> 📸 **Screenshot Placeholder:**  
-> _Insert screenshot showing active session and user info._
-
 ## 🔎 Enumeration Performed
 
 ### Command Outputs
