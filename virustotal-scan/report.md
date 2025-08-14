@@ -66,3 +66,7 @@
 ## 🔐 Public Link
 - [VirusTotal Public Scan Link – infected.zip](https://www.virustotal.com/gui/file/f630d61a35d98b69b7d9e2220030dcf4752932860872142dfac8acda031bdc7)
 - [VirusTotal Public Scan Link – LBpjy.exe](https://www.virustotal.com/gui/file/ae2a513b61febc225d5e374ab22dba754a3d38e49b7bbd442fe3f9bab16b8fb1)
+
+## 🖼️ Screenshots
+![ExifTool Output](screenshots/full_exif_output.png)
+![SHA256](screenshots/sha256_screenshot.png)
