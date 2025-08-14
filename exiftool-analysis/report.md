@@ -35,5 +35,5 @@
 - No camera make/model or GPS metadata present, indicating no direct camera origin.
 
 ## 🖼️ Screenshots
-- `screenshots/full_exif_output.png` (full metadata output)
-- `screenshots/sha256_screenshot.png` (hash calculation)
+![ExifTool Output](screenshots/full_exif_output.png)
+![SHA256](screenshots/sha256_screenshot.png)
