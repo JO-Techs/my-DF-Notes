@@ -68,5 +68,8 @@
 - [VirusTotal Public Scan Link – LBpjy.exe](https://www.virustotal.com/gui/file/ae2a513b61febc225d5e374ab22dba754a3d38e49b7bbd442fe3f9bab16b8fb1)
 
 ## 🖼️ Screenshots
-![ExifTool Output](screenshots/full_exif_output.png)
-![SHA256](screenshots/sha256_screenshot.png)
+![a](screenshots/scr1.png)
+![b](screenshots/scr2.jpg)
+![b](screenshots/scr2.jpg)
+![b](screenshots/scr2.jpg)
+![b](screenshots/scr2.jpg)
