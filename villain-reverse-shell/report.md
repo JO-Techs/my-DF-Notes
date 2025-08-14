@@ -26,3 +26,11 @@ The payload was generated using the Villain framework and executed on the target
 whoami
 ipconfig
 systeminfo
+```
+
+## 🖼️ Screenshots
+![a](screenshots/scr1.png)
+![b](screenshots/scr2.png)
+![b](screenshots/scr3.png)
+![b](screenshots/scr4.png)
+![b](screenshots/scr5.png)
